@@ -7,7 +7,6 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-
 }
 
 .hero {
@@ -38,5 +37,9 @@
       color: var(--cyan-500);
       font-weight: bold;
     }
+  }
+
+  button {
+    margin-top: 2.5rem;
   }
 }
